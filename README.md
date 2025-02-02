@@ -67,6 +67,15 @@ The food waste problem in Malaysia keeps getting worse, and there's still no eff
 ## Use Case Diagram
 ![design2 use case](https://github.com/user-attachments/assets/257d2fcc-088e-4910-aede-800ecde58729)
 
+## User Interface
+
+![Screenshot 2025-02-02 125838](https://github.com/user-attachments/assets/d6a26336-0a36-4217-8e5e-8792449b4722)
+
+![image](https://github.com/user-attachments/assets/2a550615-bd1d-424f-a3bc-e1f6f09304bf)
+
+![image](https://github.com/user-attachments/assets/4c34c7de-70ae-4ca9-95e2-d787378486f1)
+
+
 ## How to Run the Code
 
 1. **Clone the Repository:**
